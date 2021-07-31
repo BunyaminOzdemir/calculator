@@ -30,7 +30,7 @@ function App() {
       className="container bg-dark col-4 rounded"
       style={{ height: "500px" }}
     >
-      <h1 className="text-center mt-5 mb-4 text-white">React CALCULATOR</h1>
+      <h1 className="text-center mt-5 mb-4 text-white">CALCULATOR</h1>
       <InputGroup className="container mb-4">
         <span className="text-white h2">{value}</span>
       </InputGroup>
